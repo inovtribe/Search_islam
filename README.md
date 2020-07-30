@@ -1,6 +1,6 @@
 # search_islam
 
-A new Flutter application.
+This is out new app which includes Islamic lifestyle
 
 ## Getting Started
 
